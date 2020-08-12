@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+html, body,#root ,.wrapper{
+  width: 100%;
+  height: 100vh;
+  
+}
+
+body{
+  background-color:#02fff68a;
+  position: fixed;
+}
+
+.heading {
+position: absolute;
+top:0;
+width: 100%;
+ text-align: center;
+}
+h1{
+  font-family: monospace;
+  font-size: 3em;
+  margin-top: 83px;
+  font-weight: normal;
+  color: orangered;
+}
