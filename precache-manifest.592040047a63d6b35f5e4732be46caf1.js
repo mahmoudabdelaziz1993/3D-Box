@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a81ab5f0f9c083bd48bf3283e7f35d90",
+    "revision": "280895f3e2358b56f4d5c60432e0c9f5",
     "url": "/3D-Box/index.html"
   },
   {
