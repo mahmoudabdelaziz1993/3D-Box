@@ -4,6 +4,13 @@ object-assign
 @license MIT
 */
 
+/**
+ * postprocessing v6.16.0 build Mon Jul 06 2020
+ * https://github.com/vanruesc/postprocessing
+ * Copyright 2020 Raoul van Rüschen
+ * @license Zlib
+ */
+
 /** @license React v0.19.1
  * scheduler.production.min.js
  *
